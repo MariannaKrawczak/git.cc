@@ -1,5 +1,5 @@
 def introduce() -> None:
-    print("Hello, I'm Gittie!")
+    print("Hello, I'm Gittie! Lok3rs was here!!!")
 <<<<<<< HEAD
 def add():
     added = input ("Add your input: ")
