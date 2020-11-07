@@ -11,6 +11,9 @@ def add():
     added = input ("Add your input: ")
     print (added)
 
+def shout() -> None:
+    print('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
+
 
 if __name__ == "__main__":
     introduce()
